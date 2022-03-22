@@ -1,7 +1,5 @@
 - 👋 안녕하세요! xcc629입니다!
 - 📝 Wecode Fullstack 4기!
-- 💪 Javascript!!를 자유롭게 다룰 수 있을 때까지(...!) 
-- 현재: react 열공중!
 
 <!---
 xcc629/xcc629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
