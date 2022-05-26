@@ -7,8 +7,10 @@
 <img src="https://img.shields.io/badge/styled-components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcc629&theme=rose_pine)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seelime11)](https://solved.ac/seelime11)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcc629&theme=rose_pine)](https://github.com/xcc629/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcc629&layout=compact)](https://github.com/xcc629/github-readme-stats)
 <!---
 xcc629/xcc629 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
