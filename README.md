@@ -10,7 +10,7 @@
 
 
 
-## 💻 BACKJOON
+## 💻 ALGORITHM
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=seelime11)](https://solved.ac/seelime11)
 
