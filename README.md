@@ -1,6 +1,6 @@
 
 ## 🧚 ABOUT ME
-<a href='https://velog.io/@xcc629/React-login-value'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+<a href='https://velog.io/@xcc629'><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 
  ## 👩‍💻 TECK
