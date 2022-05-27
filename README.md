@@ -9,6 +9,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xcc629&layout=compact&theme=rose_pine)](https://github.com/xcc629/github-readme-stats)
 
 
+## 🚀 NEXT...
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/>
+
+
 
 ## 💻 ALGORITHM
 [![Solved.ac
@@ -19,6 +23,7 @@
 
 ## 🏄‍♀️ GITHUBSTATS
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcc629&theme=rose_pine)](https://github.com/xcc629/github-readme-stats)
+
 
 
 <!---
