@@ -22,7 +22,7 @@
 
 
 ## 🏄‍♀️ GITHUBSTATS
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcc629&theme=rose_pine)](https://github.com/xcc629/github-readme-stats)
+[![xcc629's GitHub stats](https://github-readme-stats.vercel.app/api?username=xcc629&theme=rose_pine)](https://github.com/xcc629/github-readme-stats)
 
 
 
