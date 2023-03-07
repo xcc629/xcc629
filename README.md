@@ -66,8 +66,9 @@
 |개인 블로그|개인 기술블로그 개발|풀스택|[프론트](https://github.com/xcc629/Blog)|versel, planetScale <br/> 배포주소: [블로그](https://blog-xcc629.vercel.app/)| 2023.1 - 진행중|
 |사내 모니터링 툴 데모버전|스톡폴리오 한달 인턴 프로젝트|프론트엔드|[프론트](https://github.com/xcc629/stockcontent-monitor-demo-front)|배포 x|2022.5 - 2022.6|
 |알라북스|'리디'를 모티브로 한 2인 팀프로젝트|프론트엔드|[프론트](https://github.com/xcc629/alabooks24-s-library-front)|AWS - 요금문제| 2022.3 - 2022.5|
-|스테이포레스트|'스테이폴리오'를 모티브로 한 5인 팀 프로젝트|풀스택|[프론트](https://github.com/xcc629/justcode-4-1st-sixthsense-front) / [백](https://github.com/wecode-bootcamp-korea/justcode-4-1st-sixthsense-back) |AWS - 요금문제| 2022.4|
 |당근나라|'당근마켓'을 모티브로 한 5인 팀 프로젝트|프론트엔드|[프론트](https://github.com/xcc629/justcode-4-2nd-carrot-country-front)|AWS - 요금문제|2022.3 - 2022.4|
+|스테이포레스트|'스테이폴리오'를 모티브로 한 5인 팀 프로젝트|풀스택|[프론트](https://github.com/xcc629/justcode-4-1st-sixthsense-front) / [백](https://github.com/wecode-bootcamp-korea/justcode-4-1st-sixthsense-back) |AWS - 요금문제| 2022.3 - 2022.4|
+
 
 
 
